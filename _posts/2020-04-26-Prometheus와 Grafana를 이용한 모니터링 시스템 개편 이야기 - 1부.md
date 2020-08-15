@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prometheus와 Grafana를 이용한 모니터링 시스템 개편 이야기 - 1부"
-author: yun
+author: Yun
 categories: [ DevOps ]
 image: assets/images/16.jpg
 ---
