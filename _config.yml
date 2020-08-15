@@ -1,7 +1,7 @@
 # Site
 name: "HERREN ENGINEERING"
 title: "HERREN ENGINEERING"
-description: "공비서, 브랜다즈, 인스타터/인스타겟, 인스타차트 서비스를 운영하는 (주)헤렌의 공식 기술 블로그입니다."
+description: "공비서, 브랜다즈, 인스타터/인스타겟, 인스타차트 서비스를 운영하는 주식회사 헤렌의 공식 기술 블로그입니다."
 logo: 'assets/images/herren_logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /engineering-blog
@@ -31,7 +31,7 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     job: "백엔드 엔지니어"
-    description: "공비서팀에서 B2C 플랫폼의 서버 사이드를 맡고 있는 휴입니다."
+    description: "개발과 인프라 모두 관심이 많은 주니어 개발자, 공비서팀에서 백엔드 엔지니어로 활동하고 있어요."
 
 # Plugins
 plugins:
