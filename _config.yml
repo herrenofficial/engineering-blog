@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  yun:
     name: 배상윤
     display_name: Yun
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -22,7 +22,7 @@ authors:
     twitter: https://twitter.com/wowthemesnet
     job: "백엔드 엔지니어"
     description: "인스타팀에서 백엔드 엔지니어를 맡고 있는 윤입니다."
-  john:
+  hue:
     name: 박희우
     display_name: 휴
     avatar: 'assets/images/avatar.png'
