@@ -2,7 +2,7 @@
 name: "HERREN ENGINEERING"
 title: "HERREN ENGINEERING"
 description: "공비서, 브랜다즈, 인스타터/인스타겟, 인스타차트 서비스를 운영하는 (주)헤렌의 공식 기술 블로그입니다."
-logo: 'assets/images/logo.png'
+logo: 'assets/images/herren_logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /engineering-blog
 google_analytics: 'UA-46278016-1'
