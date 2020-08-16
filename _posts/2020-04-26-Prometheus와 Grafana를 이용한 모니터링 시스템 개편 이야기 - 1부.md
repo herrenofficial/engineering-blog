@@ -3,16 +3,12 @@ layout: post
 title:  "Prometheus와 Grafana를 이용한 모니터링 시스템 개편 이야기 - 1부"
 author: yun
 categories: [ DevOps ]
-image: assets/images/16.jpg
+image: assets/img/post/prometheus-with-grafana-1/aFDi8ir.png
 ---
 
-# Prometheus + Grafana로 모니터링하기 (1)
+> 안녕하세요, 헤렌 인스타차트 팀의 윤입니다. 최근에 프로젝트 전반에 걸쳐 모니터링 시스템을 개편하면서 사용하게 된 Prometheus와 Grafana에 대해 소개해보려 합니다! 
 
-안녕하세요, 헤렌 인스타차트 팀의 윤입니다. 최근에 프로젝트 전반에 걸쳐 모니터링 시스템을 개편하면서 사용하게 된 Prometheus와 Grafana에 대해 소개해보려 합니다! 
-
-## Prometheus와 Grafana에 대하여
 ### Prometheus
-![](/assets/img/post/prometheus-with-grafana-1/aFDi8ir.png)
 
 Prometheus는 간단하게 정의해보자면 **시계열 데이터베이스 및 수집도구**입니다.
 
