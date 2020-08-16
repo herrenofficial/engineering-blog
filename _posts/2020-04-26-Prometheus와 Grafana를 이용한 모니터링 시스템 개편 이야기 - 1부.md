@@ -3,7 +3,7 @@ layout: post
 title:  "Prometheus와 Grafana를 이용한 모니터링 시스템 개편 이야기 - 1부"
 author: yun
 categories: [ DevOps ]
-image: ![](assets/images/post/prometheus-with-grafana-1/aFDi8ir.png)
+image: assets/images/post/prometheus-with-grafana-1/aFDi8ir.png
 ---
 
 > 안녕하세요, 헤렌 인스타차트 팀의 윤입니다. 최근에 프로젝트 전반에 걸쳐 모니터링 시스템을 개편하면서 사용하게 된 Prometheus와 Grafana에 대해 소개해보려 합니다! 
